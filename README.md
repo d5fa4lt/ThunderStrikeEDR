@@ -7,6 +7,8 @@ It only has one feature right now which is inject a Hook DLL into each process u
 I will add More Features in the future. 
 
 
+## ⚠️ Caution 
+This project is currently under active development. Features are experimental and may be unstable or incomplete. It is strongly recommended to run and test this EDR inside a virtual machine (VM) to avoid affecting your main system. Use at your own risk.
 
 
 ## 📝 To-Do 
@@ -17,7 +19,7 @@ I will add More Features in the future.
 
 
 
-## 📚 References
+## 📚 Resources
 - Evading EDR Book (By Matt Hand).
 - [SensePost – From Windows Drivers to an Almost Fully Working EDR (2024)](https://sensepost.com/blog/2024/sensecon-23-from-windows-drivers-to-an-almost-fully-working-edr/)
 - [SensePost – mydumbEDR (GitHub)](https://github.com/sensepost/mydumbedr)
