@@ -12,8 +12,7 @@ I will add More Features in the future.
 
 
 ## ⚠️ Caution 
-This project is currently under active development. Features are experimental and may be unstable or incomplete. It is strongly recommended to run and test this EDR inside a virtual machine (VM) to avoid affecting your main system. Use at your own risk.
-
+This project is under development, so please use it with caution. It is recommended to run it inside a virtual machine to avoid any risks to your main system.
 
 ## 📝 To-Do 
 
