@@ -1,5 +1,4 @@
-# Another Open source EDR
-
+# ThunderStrike
 I create this project to Learn Edr Internals and Windows kernel Programming. 
 
 
