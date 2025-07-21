@@ -1,4 +1,4 @@
-# ThunderStrike
+# ThunderStrike EDR 
 I create this project to Learn Edr Internals and Windows kernel Programming. 
 
 
